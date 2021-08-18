@@ -55,4 +55,4 @@ curl --request GET http://localhost:8080/api/slots/Carl
 ```
 Alternatively, any modern browser with Console/Developer tools can render JSON replies without any problem. For even fancier control, [Postman](https://www.postman.com/) is a really powerful option.
 ## Testing
-A simple bash script, [test_example.sh](test_example.sh) is provided, simulating the scenario detailed in the [assignment](docs/assignment.md). Just _chmod +x_ it and pass as first argument the API's port number.
+A simple bash script, [test_example.sh](test_example.sh) is provided, simulating a real life scenario. Just _chmod +x_ it and pass as first argument the API's port number.
